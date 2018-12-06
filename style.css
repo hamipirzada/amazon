@@ -1,0 +1,586 @@
+
+body{
+    
+    margin:0;
+    padding:0;
+    
+}
+.header {
+    margin:0;
+    padding:0;
+    background-color: #232f3e;
+    width: 1347px;
+    height: 100px;
+   // margin-top: -8px;
+   // margin-left: -7px;
+    font-family: sans-serif;
+    font-size: 12px;
+    
+}
+
+input {
+    
+    position: relative;
+    bottom: 15px;
+    width: 40%;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    margin-right: -5px;
+    font-size: 14px;
+    font-family: sans-serif;
+    
+    
+}
+
+.header img[title="search"] {
+    
+    position: relative;
+    bottom: 4px;
+    width: 35px;
+    height: 32px;
+    background-color: coral;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    
+    
+}
+
+.header img[title="amazon.com"] {
+    
+    width: 130px;
+    height: 45px;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+#loc img {
+    
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 30px;
+    height: 25px;
+    
+}
+
+#loc pre a {
+    
+    position: relative;
+    left: 40px;
+    bottom: 35px;
+    color: aliceblue;
+    font-size: 14px;
+    text-decoration: none;
+    
+}
+
+.container {
+    width:100%;
+    height:730px;
+    background-image: url(images/img2.jpg);
+    //background-position: top;
+    background-size: cover; 
+    
+}
+
+.mini_box img {
+    
+    
+    margin-left: 20px;
+    
+}
+
+.mini_box a {
+    
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: blue;
+    margin-left: 20px;
+        
+}
+
+.mini_box a:hover {
+    
+    color: coral;
+    text-decoration: underline;
+    
+}
+
+.mini_box h1 {
+    
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+
+.mini_box p {
+    
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 15px;
+    line-height: 20px;
+    
+}
+
+.mini_box {
+
+    float: left;
+    position: relative;
+    top:100px;
+    left: 30px;
+    width: 300px;
+    height: 420px;
+    margin-right: 15px;
+    margin-top: 220px;
+    border-radius: 1px;
+    background-color: white;
+
+}
+
+/*.mini_box2 {
+    
+    float: left;
+    position: relative;
+    left: 30px;
+    border: 1px solid grey;
+    width: 300px;
+    height: 350px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border-radius: 3px;
+    
+    
+}
+
+.mini_box3 {
+    
+    float: left;
+    position: relative;
+    left: 30px;
+    border: 1px solid grey;
+    width: 300px;
+    height: 350px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border-radius: 3px;
+    
+}
+*/
+
+.mini_box1 h1 {
+    
+    font-family: sans-serif;
+    font-size: 22px;
+    margin-left: 25px;
+    
+}
+
+.mini_box1 button {
+    
+    width: 270px;
+    height: 30px;
+    margin-left: 25px;
+    background-color: #e0bd5b;
+    color: darkslategrey;
+    font-weight: 500;
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin-top: 10px;
+    
+}
+
+.mini_box1 a button:hover {
+    
+    background-color: orange;
+    
+}
+
+.mini_box1 {
+    
+    float: left;
+    position: relative;
+    left: 30px;
+    width: 320px;
+    height: 150px;
+    margin-right: 15px;
+    margin-top: 320px;
+    border-radius: 1px;
+    background-color: azure;
+    
+}
+
+.mini_box2 img {
+    
+    margin-left: 10px;
+    height: 240px;
+    width: 300px;
+    
+}
+
+.mini_box2 {
+    
+    float: left;
+    position: relative;
+    left: 30px;
+    width: 320px;
+    height: 240px;
+    margin-right: 15px;
+    margin-top: 20px;
+    border-radius: 1px;
+    background-color: white;
+    
+}
+
+
+.mini_box3 {
+    
+    //clear: both;
+    float: left;
+    position: relative;
+    left: 30px;
+    border: 1px solid grey;
+    width: 300px;
+    height: 345px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border-radius: 3px;
+    margin-bottom:15px;
+}
+/*
+.mini_box7 {
+    
+    float: left;
+    position: relative;
+    top: 5px;
+    left: 30px;
+    border: 1px solid grey;
+    width: 300px;
+    height: 345px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border-radius: 3px;
+    
+}
+
+
+.mini_box8 {
+    
+    float: left;
+    position: relative;
+    left: 30px;
+    top: 5px;
+    border: 1px solid grey;
+    width: 300px;
+    height: 345px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border-radius: 3px;
+    
+    
+}
+
+.mini_box9 {
+    
+    float: left;
+    position: relative;
+    left: 30px;
+    top: 5px;
+    border: 1px solid grey;
+    width: 320px;
+    height: 345px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border-radius: 3px;
+    
+    
+}
+*/
+
+.slide_box1 {
+    
+    clear: both;
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box2 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box3 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box4 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box5 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box6 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box7 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box8 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box9 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box10 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box11 {
+    
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    height: 300px;
+    margin-top: 15px;
+    
+}
+
+.slide_box12 {
+    
+    clear: both;
+    position: relative;
+    left: 20px;
+    background-color: darkseagreen;
+    width: 98%;
+    margin-top: 15px;
+    
+}
+
+
+.top_footer img {
+    
+    width: 150px;
+    height: 40px;
+    border: none;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    
+}
+
+.contries {
+    
+    font-size: 13px;
+    margin-right: 10px;
+    
+}
+
+.top_footer {
+    
+    background-color: #232f3e;
+    width: 101%;
+    height: 530px;
+    margin-top: -15px;
+    margin-left: -7px;
+    font-family: sans-serif;
+    
+}
+
+.top_footer th p {
+    
+    font-size: 18px;
+    padding-right: 80px;
+    color: aliceblue;
+    margin-top: 50px;
+    
+}
+
+.top_footer td a {
+    
+    text-decoration: none;
+    margin-bottom:  20px;
+    margin-top: 20px;
+    color: darkgray;
+    font-size: 13px;
+    
+}
+
+.top_footer td a:hover{
+    
+    text-decoration: underline;
+    
+    
+}
+
+hr {
+    
+    color: lightgray;
+    margin-top: 8%;
+    border: 0.5px solid lightgrey;
+    
+}
+
+button{
+    
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    background-color: #37475a;
+    border: none;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    
+}
+
+button:hover {
+    
+    background-color: #232e4f;
+    
+}
+
+.footer {
+    
+    background-color: #131a22;
+    width: 101%;
+    height: 230px;
+    margin-top: -15px;
+    margin-left: -7px;
+    
+}
+
+.footer a {
+    
+    float: left;
+    color: darkgrey;
+    text-decoration: none;
+    margin-right: 70px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 10px;
+    
+    
+}
+
+.footer a:hover {
+    
+    text-decoration: underline;
+    
+}
+
+#one {
+    
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 23%;
+    margin-right: 20px;
+    
+}
+
+#two {
+    
+    font-size: 12px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+
+#three {
+    
+    font-size: 12px;
+    font-weight: 600;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    
+}
+
+#four {
+    
+    font-size: 13px;
+    font-weight: 100;
+    margin-right: 20px;
+    color: #808080;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    
+}
